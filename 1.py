@@ -1,1 +1,0 @@
-pip install prettytable==0.7.2
